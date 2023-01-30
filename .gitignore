@@ -1,0 +1,7 @@
+# Project exclude paths
+/oredr-ws/order-application/target/
+/oredr-ws/order-container/target/
+/oredr-ws/order-dataaccess/target/
+/oredr-ws/order-domain/order-application-service/target/
+/oredr-ws/order-domain/order-domain-core/target/
+/oredr-ws/order-messaging/target/
